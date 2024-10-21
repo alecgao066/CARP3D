@@ -1,0 +1,12 @@
+case_id,slide_id,label
+Patient_0,S001_A_335,tumor_tissue
+Patient_0,S001_B_335,normal_tissue
+Patient_1,S002_B_360,tumor_tissue
+Patient_2,S003_A_360,tumor_tissue
+Patient_2,S003_B_360,normal_tissue
+Patient_2,S003_F_360,normal_tissue
+Patient_3,S004_A_360,tumor_tissue
+Patient_4,S005_F_360,tumor_tissue
+Patient_5,S007_B_322,normal_tissue
+Patient_6,S008_F1_360,normal_tissue
+Patient_7,S011_C_360,tumor_tissue
