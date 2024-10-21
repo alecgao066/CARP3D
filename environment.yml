@@ -13,6 +13,7 @@ dependencies:
   - tensorflow
   - tensorboardx
   - torchvision
+  - pip
   - pip:
     - opencv-python
 
